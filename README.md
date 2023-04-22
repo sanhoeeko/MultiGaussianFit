@@ -1,3 +1,9 @@
+# MultiGaussianFit2
+
+Weighted GMM model with EM optimization is applied. It is stronger than previous **MultiGaussianFit**.
+
+---
+
 # MultiGaussianFit
 
 Fit data supposed to be a sum of some gaussian distributions, i.e. gamma ray spectrum.
